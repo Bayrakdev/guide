@@ -89,7 +89,7 @@ If you provide multiple permissions to the method, it will only return `true` if
 You can learn more about the `.has()` method [here](#checking-for-permissions).
 :::
 
-## Channel overwrites
+## Channel overwritess
 
 Permission overwrites control members' abilities for this specific channel or a set of channels if applied to a category with synchronized child channels.
 
